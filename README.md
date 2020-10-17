@@ -1,0 +1,2 @@
+# COD-Warzone-SBMM-study-using-Python-BS4-Selenium-Pandas
+Still a work in progress, no documentation, code is simple - no classes, mostly for loops and lists. I used this code in order to scrape codtracker for data hundreds of thousands of players and matches in just a week using this ultrabook, and with limited modification I hope to reproduce XclusiveAce's study thoroughly as well as the 2017 EA study on SBMM in Apex.
