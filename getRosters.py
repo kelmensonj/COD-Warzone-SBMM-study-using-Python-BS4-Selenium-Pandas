@@ -8,7 +8,7 @@ import callofduty
 from callofduty import Mode, Platform, Reaction, Title
 
 async def main():
-	client = await callofduty.Login("randomemail1192939@gmail.com", "babababa12")
+	client = await callofduty.Login("********", ********")
 	id_list = [14499323038196648427]
 	for match_id in id_list:
 		time.sleep(1)
